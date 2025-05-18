@@ -6,7 +6,7 @@ import Generator from './components/Generator';
 import LogoGenerator from './components/LogoGenerator';
 import Hero from './components/Hero';
 import About from './components/Aboutus';
-import Contact from './components/Contact';
+// import Contact from './components/Contact';
 
 function App() {
   const location = useLocation();
