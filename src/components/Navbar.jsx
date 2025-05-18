@@ -27,7 +27,7 @@ function Navbar() {
           <a href="/about">About</a>
         </li>
         <li className={`p-4 cursor-pointer ${location.pathname === '/contact' ? 'text-[#00df9a]' : 'hover:text-[#00df9a]'}`}>
-          <a href="#contact">Contact</a>
+          <a href="/contact">Contact</a>
         </li>
       </ul>
       
